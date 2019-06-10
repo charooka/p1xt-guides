@@ -72,7 +72,7 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 ### Tier X - Programming Prep Prep
 
-A very gentle introduction, complete if feel you would benefit from it, skip if you'd rather dive right into tier 0
+A very gentle introduction, complete if you feel you would benefit from it, skip if you'd rather dive right into tier 0
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
@@ -90,8 +90,8 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)                                                                 |In Progress|
-| [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial/vim)                                                                      |            |
+| [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)                                                                 |Complete    | 10.06.2019
+| [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial/vim)                                                                      |In Progress |
 | [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial/getting_started)                                                                          |            |
 | [Learn Enough HTML to Be Dangerous](https://www.learnenough.com/html-tutorial/html_intro)                                                                             |            |
 | [Learn Enough CSS & Layout to Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial/introduction)                                                         |            |
