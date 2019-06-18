@@ -91,8 +91,8 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)                                                                 |Complete    | 10.06.2019
-| [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial/vim)                                                                      |In Progress |
-| [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial/getting_started)                                                                          |            |
+| [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial/vim)                                                                      |Complete    | 18.06.2019
+| [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial/getting_started)                                                                          |In Progress |
 | [Learn Enough HTML to Be Dangerous](https://www.learnenough.com/html-tutorial/html_intro)                                                                             |            |
 | [Learn Enough CSS & Layout to Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial/introduction)                                                         |            |
 | [Learn Enough JavaScript to Be Dangerous](https://www.learnenough.com/javascript-tutorial/hello_world)                                                                |            |
