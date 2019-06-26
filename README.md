@@ -97,7 +97,7 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 | [Learn Enough CSS & Layout to Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial/introduction)                                                         | In Progress |
 | [Learn Enough JavaScript to Be Dangerous](https://www.learnenough.com/javascript-tutorial/hello_world)                                                                | In Progress |
 | **Reading**                                                                                                                                                           | **Status** | **Evidence** |
-| [MDN HTML - Beginner's tutorials](https://developer.mozilla.org/en-US/docs/Web/HTML#Beginner's_tutorials)                                                             |            |
+| [MDN HTML - Beginner's tutorials](https://developer.mozilla.org/en-US/docs/Web/HTML#Beginner's_tutorials)                                                             | In Progress| Intro up to Advanced Text Formatting
 | [MDN CSS - Tutorials](https://developer.mozilla.org/en-US/docs/Web/CSS#Tutorials)                                                                                     |            |
 | [MDN JavaScript - Tutorials - For Complete Beginners](https://developer.mozilla.org/en-US/docs/Web/JavaScript#For_complete_beginners)                                 |            |
 | [Eloquent JavaScript](https://eloquentjavascript.net/)                                                                                                                |            |
