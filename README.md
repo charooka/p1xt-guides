@@ -101,7 +101,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | [MDN JavaScript - Tutorials - For Complete Beginners](https://developer.mozilla.org/en-US/docs/Web/JavaScript#For_complete_beginners)                                 |            |
 | [Eloquent JavaScript](https://eloquentjavascript.net/)                                                                                                                |            |
 | **App Academy Open**                                                                                                                                                  | **Status** | **Evidence** |
-| Welcome To Coding                                                                                                                                                     |            |              |
+| Welcome To Coding                                                                                                                                                     |Complete|30.06.2019|
 | Full Stack Online - Intro to Programming                                                                                                                              |            |              |
 | Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
 | Full Stack Online - Ruby                                                                                                                                              |            |              |
