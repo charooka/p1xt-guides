@@ -12,7 +12,7 @@ If you want to develop the skills necessary to be 'job ready' for a junior devel
 
 - [tier X - Math Prep](#tier-x---math-prep)
 - [tier X - Programming Prep Prep](#tier-x---programming-prep-prep)
-- [tier 0 - Programming Prep](#tier-0---programming-prep)
+- [tier 0 - Programming Prep](#tier-0---web-development---fullstack-bootcamp---app-academy-open)
 - [tier 1 - Getting Started](#tier-1---getting-started)
 
 ### Intermediate developer
@@ -34,6 +34,7 @@ If you want to develop the skills necessary to move beyond intermediate to senio
 Each tier has a 'specialization' based capstone which involves further study and extensive practice in an area of your choosing. [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) is highly recommended (but not required) as the first specialization. Beyond that, feel free to complete a different specialization each tier, or dive deeply into a specialization by selecting it during multiple tiers to explore it in greater detail and further develop your specialized profile.
 
 - [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) (recommended, but not required, first specialization)
+- [Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2019](./specializations/full_stack_open_2019.md)
 - [Web Development - Fullstack Bootcamp - The Odin Project](./specializations/the_odin_project.md)
 - [Web Development - Frontend](./specializations/frontend.md)
 - [Web Development - Backend](./specializations/backend.md)
