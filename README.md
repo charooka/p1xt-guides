@@ -103,7 +103,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | [Eloquent JavaScript](https://eloquentjavascript.net/)                                                                                                                |            |
 | **App Academy Open**                                                                                                                                                  | **Status** | **Evidence** |
 | Welcome To Coding                                                                                                                                                     |Complete|30.06.2019|
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
+| Full Stack Online - Intro to Programming                                                                                                                              |Complete|10.07.2019|
 | Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
 | Full Stack Online - Ruby                                                                                                                                              |            |              |
 | Full Stack Online - SQL                                                                                                                                               |            |              |
