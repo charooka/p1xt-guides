@@ -22,9 +22,9 @@ If you want to develop the skills necessary to move beyond junior to intermediat
 - [tier 2 - Develop More Expertise](#tier-2---develop-more-expertise)
 - [tier 3 - Add More Rigor](#tier-3---add-more-rigor)
 
-### Senior developer
+### Advanced developer
 
-If you want to develop the skills necessary to move beyond intermediate to senior developer - once you've finished tiers X, 0, 1, 2, and 3, proceed to complete tiers 4 and 5.
+If you want to develop the skills necessary to move beyond intermediate to advanced developer - once you've finished tiers X, 0, 1, 2, and 3, proceed to complete tiers 4 and 5.
 
 - [tier 4 - Polish the Rough Edges](#tier-4---polish-the-rough-edges)
 - [tier 5 - Specialize](#tier-5---specialize)
@@ -133,9 +133,9 @@ Deepen understanding of Web Development and begin learning Computer Science topi
 | [MDN HTML - Advanced topics](https://developer.mozilla.org/en-US/docs/Web/HTML#Advanced_topics)                                                                                                                                                                                                                                                                |            |
 | [MDN CSS - Reference - Key Concepts](https://developer.mozilla.org/en-US/docs/Web/CSS#Reference)                                                                                                                                                                                                                                                               |            |
 | [MDN JavaScript - Tutorials - JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript#JavaScript_guide)                                                                                                                                                                                                                                      |            |
-| [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)                                                                                                                                                                                                                    |            |
-| [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)                                                                                                                                                                                                  |            |
-| [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)                                                                                                                                                                        |            |
+| [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/up%20&%20going/README.md#you-dont-know-js-up--going)                                                                                                                                                                                                                    |            |
+| [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)                                                                                                                                                                                                  |            |
+| [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)                                                                                                                                                                        |            |
 | **Practice**                                                                                                                                                                                                                                                                                                                                                   | **Status** | **Evidence** |
 | Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/)                                                                                                                                                                                                                                                                                 |            |
 | Complete [Google Kick Start 2018](https://codingcompetitions.withgoogle.com/kickstart/archive/2018)                                                                                                                                                                                                                                                            |            |
@@ -164,8 +164,8 @@ Dive deeper into the Computer Science topics which will prove useful throughout 
 | [MDN JavaScript - Tutorials - Advanced](https://developer.mozilla.org/en-US/docs/Web/JavaScript#Advanced)                                                                                                          |            |
 | [MDN HTTP - Tutorials](https://developer.mozilla.org/en-US/docs/Web/HTTP#Tutorials)                                                                                                                                |            |
 | [MDN Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_components)                                                                                                                                  |            |
-| [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)                                                         |            |
-| [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)                                                                  |            |
+| [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)                                                         |            |
+| [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)                                                                  |            |
 | [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)                                                                                                                                  |            |
 | [D3 Tips and Tricks v3.x](https://leanpub.com/D3-Tips-and-Tricks/read#leanpub-auto-acknowledgements)                                                                                                               |            |
 | **Practice**                                                                                                                                                                                                       | **Status** | **Evidence** |
@@ -186,11 +186,11 @@ Dive deeper yet, exploring algorithms and different programming paradigms
 | Courses                                                                                                                                                                                                                                                    |   Status   |   Evidence   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)                                                                                                                                                       |            |
-| [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)                                                |            |
 | [Algorithms: Design and Analysis, Part 2](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)                                                                                                                         |            |
 | [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) (more rigorous) or [Khan Academy Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus) (a more gentle introduction) |            |
 | [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)                                                          |            |
 | [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)                                                                                         |            |
+| [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)                                                                                                                                                                |            |
 | [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)                                                                                                       |            |
 | **Reading**                                                                                                                                                                                                                                                | **Status** | **Evidence** |
 | Official docs for [Angular](https://angular.io/docs), [React](https://reactjs.org/docs/getting-started.html), or [Vue](https://vuejs.org/v2/guide/)                                                                                                        |            |
@@ -215,7 +215,7 @@ Dive deeper yet, exploring algorithms and different programming paradigms
 
 <br><br>
 
-## Senior Developer
+## Advanced Developer
 
 ### Tier 4 - Polish the Rough Edges
 
