@@ -95,7 +95,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial/vim)                                                                      |Complete    | 18.06.2019
 | [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial/getting_started)                                                                          | Complete   | 22.06.2019
 | [Learn Enough HTML to Be Dangerous](https://www.learnenough.com/html-tutorial/html_intro)                                                                             | Complete | 24.06.2019
-| [Learn Enough CSS & Layout to Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial/introduction)                                                         | In Progress |
+| [Learn Enough CSS & Layout to Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial/introduction)                                                         | Dropped |
 | **Reading**                                                                                                                                                           | **Status** | **Evidence** |
 | [MDN HTML - Beginner's tutorials](https://developer.mozilla.org/en-US/docs/Web/HTML#Beginner's_tutorials)                                                             | In Progress| Intro up to Advanced Text Formatting
 | [MDN CSS - Tutorials](https://developer.mozilla.org/en-US/docs/Web/CSS#Tutorials)                                                                                     |            |
@@ -104,7 +104,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | **App Academy Open**                                                                                                                                                  | **Status** | **Evidence** |
 | Welcome To Coding                                                                                                                                                     |Complete|30.06.2019|
 | Full Stack Online - Intro to Programming                                                                                                                              |Complete|10.07.2019|
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
+| Full Stack Online - Software Engineering Foundations                                                                                                                  |Complete|16.12.2019|
 | Full Stack Online - Ruby                                                                                                                                              |            |              |
 | Full Stack Online - SQL                                                                                                                                               |            |              |
 | Full Stack Online - Rails                                                                                                                                             |            |              |
